@@ -19,7 +19,7 @@ Some insights you can explore in Tableau:
 -  Top 15 technologies
 
 You can access to the dashboard via this link - https://public.tableau.com/app/profile/likhith.kongara/viz/TechJobMarketAnalysis/Dashboard1
-
+And the Story here - https://public.tableau.com/app/profile/likhith.kongara/viz/TechJobMarketAnalysis/Story1
 ## Project Structure
 Analysis
  - saved tableau package
